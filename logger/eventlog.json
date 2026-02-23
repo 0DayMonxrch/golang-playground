@@ -1,0 +1,8 @@
+[
+  {"level":"INFO","message":"Application Started","time":"2026-02-23T10:00:45.8200636+05:30"},
+  {"level":"INFO","message":"Application event occurred","time":"2026-02-23T10:00:45.8200636+05:30"},
+  {"level":"METRIC","message":"Current memory usage: 4.18%","time":"2026-02-23T10:00:48.8207749+05:30"},
+  {"level":"METRIC","message":"Current memory usage: 4.23%","time":"2026-02-23T10:00:51.8210569+05:30"},
+  {"level":"METRIC","message":"Current memory usage: 4.23%","time":"2026-02-23T10:00:54.8208397+05:30"},
+  {"level":"INFO","message":"Application shutting down","time":"2026-02-23T10:00:55.8209571+05:30"}
+]
